@@ -6,7 +6,7 @@ A boilerplate for building React apps with ES6 and webpack.
 * ES6 & JSX to ES5 via babel
 * webpack with react hot loader, and other useful loaders
 * [Local CSS](https://github.com/webpack/css-loader#local-scope)
-* React router ([feature/react-router](https://github.com/badsyntax/react-seed/tree/feature/react-router))
+* React router ([axios/react-router](https://github.com/badsyntax/react-seed/tree/feature/react-router))
 
 ### Installing
 
